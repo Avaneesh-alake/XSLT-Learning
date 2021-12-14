@@ -1,0 +1,27 @@
+<?xml-stylesheet type = "text/xsl" href = "students.xsl"?>
+<class>
+	<student>
+	<firstname>Avaneesh</firstname>
+	<lastname>A</lastname>
+	<company>Elektrobit</company>
+	</student>
+	
+	<student>
+	<firstname>Ashwin</firstname>
+	<lastname>DB</lastname>
+	<company>Elektrobit</company>
+	</student>
+	
+	<student>
+	<firstname>Ajay</firstname>
+	<lastname>Saini</lastname>
+	<company>Elektrobit</company>
+	</student>
+	
+	<student>
+	<firstname>Sriram</firstname>
+	<lastname>Grandhi</lastname>
+	<company>Elektrobit</company>
+	</student>
+	
+</class>
